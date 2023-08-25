@@ -3,5 +3,10 @@
       "name": "Zentic",
       "gamemodes": "Practice, Skywars, Bedwars",
       "ip": "zentic.cc"
+    },
+    {
+        "name": "ArchMC",
+        "gamemodes": "Survival, Bedwars, Kitpvp",
+        "ip": "mc.arch.lol"
     }
 ]

@@ -1,4 +1,4 @@
-# Server List
+# Eaglercrack server list
 
 This repository contains a list of Eagler servers and their gamemodes.
 

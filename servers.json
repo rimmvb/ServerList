@@ -5,8 +5,8 @@
       "ip": "zentic.cc"
     },
     {
-        "name": "ArchMC",
-        "gamemodes": "Survival, Bedwars, Kitpvp",
-        "ip": "mc.arch.lol"
+      "name": "ArchMC",
+      "gamemodes": "Survival, Bedwars, Kitpvp",
+      "ip": "mc.arch.lol"
     }
 ]

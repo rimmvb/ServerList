@@ -2,11 +2,16 @@
     {
       "name": "Zentic",
       "gamemodes": "Practice, Skywars, Bedwars",
-      "ip": "zentic.cc"
+      "ip": "wss://zentic.cc"
     },
     {
       "name": "ArchMC",
       "gamemodes": "Survival, Bedwars, Kitpvp",
-      "ip": "mc.arch.lol"
+      "ip": "wss://mc.arch.lol"
+    }
+    {
+      "name": "Asspixel",
+      "gamemodes": "Asspixel - 1.8",
+      "ip": "wss://mc.asspixel.net/"
     }
 ]

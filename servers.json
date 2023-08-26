@@ -2,16 +2,38 @@
     {
       "name": "Zentic",
       "gamemodes": "Practice, Skywars, Bedwars",
+        "info": "Best pvp server until mercury"
       "ip": "wss://zentic.cc"
     },
     {
       "name": "ArchMC",
       "gamemodes": "Survival, Bedwars, Kitpvp",
+        "info": "Good server just watch out"
       "ip": "wss://mc.arch.lol"
     },
     {
       "name": "Asspixel",
       "gamemodes": "Skywars, Bedwars, Hardcore, Oneblock",
+        "info": "lag but other than that it good"
       "ip": "wss://mc.asspixel.net/"
-    }
+    },
+    {
+      "name": "Venstone",
+      "gamemodes": "Survival",
+        "info": "Underrated tbh"
+      "ip": "wss://venstone.ddns.net:8082"
+    },
+    {
+      "name": "GGsmp",
+      "gamemodes": "Survival, Factions, Duels ",
+        "info": "racist"
+      "ip": "wss://ggsmp.net/"
+    },
+    {
+      "name": "Verise Anarchy",
+      "gamemodes": "Anarchy",
+        "info": "not 24/7"
+      "ip": "wss://verise.repl.co"
+    },
+    
 ]

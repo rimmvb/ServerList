@@ -2,8 +2,8 @@
     {
       "name": "Zentic",
       "gamemodes": "Practice, Skywars, Bedwars, CrystalFFA",
-      "ip": "wss://zentic.cc",
-      "logo": ""
+      "ip": "zentic.cc",
+      "port": "25565"
     },
     {
       "name": "ArchMC",

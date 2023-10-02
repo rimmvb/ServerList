@@ -2,7 +2,44 @@
     {
       "name": "Zentic",
       "gamemodes": "Practice, Skywars, Bedwars, CrystalFFA",
-      "ip": "zentic.cc",
-      "port": "25565"
-    }    
+      "ip": "wss://zentic.cc",
+      "logo": ""
+    },
+    {
+      "name": "ArchMC",
+      "gamemodes": "Survival, Bedwars, Kitpvp",
+      "ip": "wss://mc.arch.lol",
+      "logo": ""
+    },
+    {
+      "name": "Asspixel",
+      "gamemodes": "Skywars, Bedwars, Hardcore, Oneblock",
+      "ip": "wss://mc.asspixel.net/",
+      "logo": ""
+    },
+    {
+      "name": "Venstone",
+      "gamemodes": "Survival",
+      "ip": "wss://venstone.ddns.net:8082",
+      "logo": ""
+    },
+    {
+      "name": "GGsmp",
+      "gamemodes": "Survival, Factions, Duels ",
+      "ip": "wss://ggsmp.net/",
+      "logo": ""
+    },
+    {
+      "name": "Verise Anarchy",
+      "gamemodes": "Anarchy",
+      "ip": "wss://verise.repl.co",
+      "logo": ""
+    },
+    {
+      "name": "LegendSMP",
+      "gamemodes": "Survival, TNT run",
+      "ip": "wss://legxndsmp.minecraft.pe",
+      "logo": ""
+    }
+    
 ]

@@ -8,4 +8,4 @@ We welcome contributions to this server list from the eagler community. To contr
 
 
 ## Website
-https://eaglercrack.netlify.app/servers
+https://eaglercracklol.netlify.app/servers
